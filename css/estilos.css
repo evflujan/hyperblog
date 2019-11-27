@@ -43,13 +43,7 @@ body
     padding: 1em;
 }
 
-<<<<<<< HEAD
-#leyenda{
-  color: red;
-  font-family: cursive;
-=======
 #distintivo{
   border: 3px solid red;
-  color: green;
->>>>>>> cabecera
+  color: red;
 }
