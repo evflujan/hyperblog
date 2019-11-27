@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  text-align: center;
+  font-family: "Arial";
+  color: deeppink;
+}
+
+#container{
+  width: 50vw;
+  color: green;
+  border: 3px solid green;
+}
+
+#cabecera{
+  background: #aa55ff;
+  height: 40px;
+  color: yellow;
+  font-size: 18px;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+}
