@@ -42,3 +42,8 @@ body
 {
     padding: 1em;
 }
+
+#leyenda{
+  color: red;
+  font-family: cursive;
+}
